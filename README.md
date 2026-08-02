@@ -14,8 +14,8 @@ My areas of expertise include:
 
 
 ## Socials:
-<a href="https://instagram.com/abduuu30._" target="https://www.instagram.com/abduuu30._/">
-    <img src="./assets/instagram.png" width="30" alt="Instagram" style="vertical-align: middle;">
+<a href="https://instagram.com/abduuu30._" target="_blank">
+    <img src="./assets/instagram.png" width="40" alt="Instagram">
 </a>
 
 ## 🛠 Programming Languages
