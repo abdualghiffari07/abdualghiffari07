@@ -97,3 +97,9 @@ My areas of expertise include:
 
 ---
 [![](https://komarev.com/ghpvc/?username=abdualghiffari07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdualghiffari07/abdualghiffari07/output/github-snake-dark.svg" alt="GitHub Snake">
+</p>
